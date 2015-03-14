@@ -1,0 +1,9 @@
+name: EpicDropParty
+main: me.justbru00.epic.dropparty.EpicDropParty
+version: 1.0
+description: Manages Dps.
+
+
+commands:
+ dp:
+       description: manages dp commands.
